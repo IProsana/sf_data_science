@@ -48,7 +48,7 @@ def game_core_v2(number: int = 1) -> int:
     return count
 
 def game_core_v3(number: int = 1) -> int:
-    """
+    """Угадываем число бинарным поиском.
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
 
@@ -75,13 +75,11 @@ def game_core_v3(number: int = 1) -> int:
             max_value = mid_value - 1
         else:
             min_value = mid_value + 1
-            
-    if mid_value != number:
-        print("Не угадал число ", number)
+
 
     return count
 
-
+# Функция для оценки
 def score_game(name_func) -> int:
     """За какое количство попыток в среднем за 1000 подходов угадывает наш алгоритм
 
@@ -108,3 +106,4 @@ if __name__ == "__main__":
     score_game(random_predict)
     score_game(game_core_v2)
     score_game(game_core_v3)
+    
