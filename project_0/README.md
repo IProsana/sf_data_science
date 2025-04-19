@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Результат)
+[5. Результаты](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Результаты)
 [6. Выводы](https://github.com/IProsana/sf_data_science/tree/main/project_0/README.md#Выводы)
 
 ## Описание проекта
@@ -30,14 +30,14 @@
 ### Краткая информация о данных
 ...
 
-:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Orлавление)
+:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1. Анализ подхода 1 со случайным угадыванием.
 2. Анализ подхода 2 с угадыванием с коррекцией.
 3. Поиск решения для угадывания числа за наименьшее число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Orлавление)
+:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результаты:
 Реализовано 3 разных подхода к угадыванию числа:
@@ -45,12 +45,12 @@
 2. Угадывание с коррекцией. Сначала устанавливаем любое случайное число, а потом уменьшаем или увеличиваем его в зависимости от того, больше оно или меньше нужного.
 3. Угадывание числа бинарным поиском. Самый быстрый и эффективный способ угадывания.
 
-:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Orлавление)
+:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы:  
 Для угадывания числа самым быстрым и эффективным методом является бмнарный поиск.
 
-:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Orлавление)
+:arrow_up:[к оглавлению](https://github.com/IProsana/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
